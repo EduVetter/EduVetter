@@ -1,16 +1,18 @@
-### Hi there 👋
+### Buenas dev, eu sou o Vetter!
 
-<!--
-**EduVetter/EduVetter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Trabalho
+- Atualmente trabalho como titular na graduação em história na Feevale/RS e Editor Responsável na Rede Mais de comunicação.
+  
+# Graduação
+- Licenciado em história (2011) e mestrado stricto sensu em Ensino, História e Filosofia das Ciências (2013) pelo UNASP – Centro Universitário Adventista de São Paulo.
+- Pós Graduado (latu sensu) em Cultura Regional Gaúcha (2013) pela PUCRS – Pontifícia Universidade Católica do Rio Grande do Sul.
+- Pós Graduado (latu sensu) em Guerras e Conflitos (2013) pela UFRGS – Universidade Federal do Rio Grande do Sul.
+- Pós Graduando (latu sensu) em Ciências Políticas (2022) pela USP – Universidade de São Paulo.
 
-Here are some ideas to get you started:
+# Prêmios
+- Medalha Mérito Farroupilha – 2009.
+- Medalha Negrinho do Pastoreio – 2009.
+- Medalha Simões Lopes Neto – 2009.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Livros
+- Autor dos livros “Biografia Não Autorizada de Farrapos” e “Mancha Branca na História”.
