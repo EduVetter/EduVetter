@@ -17,8 +17,9 @@
 # Livros
 - Autor dos livros “Biografia Não Autorizada de Farrapos” e “Mancha Branca na História”.
 
+##
+
 </div>
-  ##
   <div style="display: inline_block"><br>
   <img align="center" alt="RB-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="RB-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
