@@ -16,3 +16,14 @@
 
 # Livros
 - Autor dos livros “Biografia Não Autorizada de Farrapos” e “Mancha Branca na História”.
+
+</div>
+  
+  ##
+  
+  <div> 
+  <a href="https://www.instagram.com/eduvetter/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+  ![Snake animation](https://github.com/resolvendobug/resolvendobug/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
